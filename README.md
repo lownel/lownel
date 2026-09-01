@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Caio Rechi! 👋
 
-<!--
-**lownel/lownel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Based in Londrina, Brazil | 💡 Passionate about Artificial Intelligence & Data
 
-Here are some ideas to get you started:
+Junior AI Developer | ADS Student at UniFil | BPO Trainee at TCS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile! I'm a Junior Developer passionate about Artificial Intelligence and Machine Learning. Currently studying Systems Analysis and Development at UniFil and working as a BPO Trainee at Tata Consultancy Services.
+
+---
+
+### 🛠️ Technologies & Tools
+- **Languages & Logic:** Python, SQL, Logic Programming
+- **Focus Areas:** Machine Learning, Data Analysis, Artificial Intelligence
+- **Tools & Systems:** Git, GitHub, Excel (Data Analysis), Office Suite
+
+---
+
+### 🤝 Let's Connect!
+- **Email:** rechidasilvacaio@gmail.com
